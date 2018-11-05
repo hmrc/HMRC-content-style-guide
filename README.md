@@ -1,7 +1,7 @@
 
 # HMRC content style guide
 
-This is a place to discuss and propose content styles and terms in the [HMRC content style guide](https://www.prototypes.tax.service.gov.uk/hmrc-design-system-prototype/hmrc-content-guide/hmrc-style-guide).
+This is a place to discuss and propose content styles and terms in the HMRC content style guide.
 
 ## If you cannot find what you need
 
