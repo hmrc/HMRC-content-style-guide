@@ -13,6 +13,6 @@ To discuss existing entries in the HMRC content style guide, or suggest changes,
 
 ## Support
 
-If you have any questions about this backlog, you can [email the Service Design Tools team](mailto:hmrc-service-design-tools-g@digital.hmrc.gov.uk).
+If you have a question, idea or suggestion, you can [email the Service Design Tools team](mailto:hmrc-service-design-tools-g@digital.hmrc.gov.uk).
 
 
