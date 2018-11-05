@@ -8,7 +8,7 @@ This is a place to discuss and propose content styles and terms in the HMRC cont
  
  ## Discuss content styles and terms or suggest changes
  
- To discuss existing entries in the HMRC content style guide, or suggest changes, [find the issue and add your comments](https://github.com/hmrc/HMRC-content-style-guide/issues/).
+[Find the issue and add your comments](https://github.com/hmrc/HMRC-content-style-guide/issues/).
  
  ## Support
  
