@@ -3,7 +3,7 @@ Check first to see if the content style or term you are proposing is already on 
 
 If you are suggesting a change to something that already exists in the HMRC content style guide, propose it by commenting on its issue.
 
-If you need help putting your proposal together, email the Service Design Tools team at hmrc-service-design-tools-g@digital.hmrc.gov.uk.
+If you need help putting your proposal together, email the Service Design Tools team at [hmrc-service-design-tools-g@digital.hmrc.gov.uk](mailto:hmrc-service-design-tools-g@digital.hmrc.gov.uk).
 -->
 
 # [Name of style or term]
