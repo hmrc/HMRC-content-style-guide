@@ -12,4 +12,4 @@ This is a place to discuss and propose content styles and terms in the HMRC cont
  
  ## Support
  
- If you have a question, idea or suggestion, you can [email the Service Design Tools team](mailto:hmrc-service-design-tools-g@digital.hmrc.gov.uk).
+ If you have a question, idea or suggestion, you can [email the Service Design Tools team](mailto:design-resources-g@digital.hmrc.gov.uk).
